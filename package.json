@@ -22,6 +22,8 @@
     "lite-server": "^2.4.0"
   },
   "dependencies": {
-    "n": "^2.1.12"
+    "bootstrap": "4.0.0",
+    "create-react-app": "1.5.2",
+    "reactstrap": "5.0.0"
   }
 }
